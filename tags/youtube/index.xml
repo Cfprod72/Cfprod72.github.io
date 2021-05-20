@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youtube on CF Producciones</title>
+    <link>https://cfprod72.github.io/tags/youtube/</link>
+    <description>Recent content in Youtube on CF Producciones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Apr 2021 23:58:29 -0400</lastBuildDate><atom:link href="https://cfprod72.github.io/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrevista a Juan José Lavín Gübelli</title>
+      <link>https://cfprod72.github.io/post/transmisionyt/</link>
+      <pubDate>Fri, 30 Apr 2021 23:58:29 -0400</pubDate>
+      
+      <guid>https://cfprod72.github.io/post/transmisionyt/</guid>
+      <description>Entrevista con el periodista e historiador Juan José Lavín Gübelli vía Youtube   Fuente: https://www.youtube.com/watch?v=mMxxMRpdKq8</description>
+    </item>
+    
+    <item>
+      <title>Entrevista a la abogada Helhue Sukni</title>
+      <link>https://cfprod72.github.io/post/transmisi%C3%B3nenyt/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cfprod72.github.io/post/transmisi%C3%B3nenyt/</guid>
+      <description>Una entrevista que se realizo el dia 22 de Abril vía Youtube
+  Fuente: https://www.youtube.com/watch?v=M0vioZatSIw
+Invitada: https://www.instagram.com/helhuesukni/</description>
+    </item>
+    
+  </channel>
+</rss>
